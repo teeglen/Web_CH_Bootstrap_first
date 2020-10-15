@@ -1,0 +1,14 @@
+body {
+  background: #f1b497;
+}
+
+.carousel-item {
+  height: 740px;
+}
+
+.carousel-item img {
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+/*# sourceMappingURL=style.css.map */

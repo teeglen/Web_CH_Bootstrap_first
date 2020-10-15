@@ -1,0 +1,11 @@
+body {
+    background: rgb(241, 180, 151);
+}
+
+.carousel-item {
+    height: 740px;
+    img {
+        height: 100%;
+        object-fit: cover;
+    }
+}
